@@ -4,12 +4,21 @@ This project is an AI-powered voice assistant that converts speech to text, proc
 
 ## Overview
 
+<table>
+<tr>
+<td style="width:70%">
 The AI Voice Assistant consists of three main components:
-
-1. **Voice-to-Text Conversion**: Converts audio input into text using Whisper, a high-performance speech recognition model.
-2. **Text Processing with LLM**: Processes the transcribed text using a Large Language Model (LLaMA) to generate a meaningful response.
-3. **Text-to-Speech Conversion**: Converts the processed text back into speech using ParlerTTS, with customizable parameters for voice modulation.
-![image](https://github.com/user-attachments/assets/80e794f1-6f87-466c-bef7-1ddd5d900200)
+<ul>
+<li><strong>Voice-to-Text Conversion</strong>: Converts audio input into text using Whisper, a high-performance speech recognition model.</li>
+<li><strong>Text Processing with LLM</strong>: Processes the transcribed text using a Large Language Model (LLaMA) to generate a meaningful response.</li>
+<li><strong>Text-to-Speech Conversion</strong>: Converts the processed text back into speech using ParlerTTS, with customizable parameters for voice modulation.</li>
+</ul>
+</td>
+<td style="width:30%">
+<img src="https://github.com/user-attachments/assets/80e794f1-6f87-466c-bef7-1ddd5d900200" alt="Flowchart" style="width:100%">
+</td>
+</tr>
+</table>
 
 
 ## Demo
